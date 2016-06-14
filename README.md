@@ -1,11 +1,11 @@
-# ionic-meteor-post-poc
+# Mobile App - MeteorJS + Ionic + AngularJS
 This is a cross-platform mobile app built using [MeteorJS](https://www.meteor.com/), [Ionic](http://ionicframework.com/) and [AngularJS](https://angularjs.org/).
 
 ## How to setup
 * [Download and install MeteorJS](https://www.meteor.com/install)
-* Ensure MeteorJS is installed properly. Run command `meteor --version`, you should be able to see current Meteor versio installed on your computer.
+* Ensure MeteorJS is installed properly. Run command `meteor --version`, you should be able to see current Meteor version installed on your computer.
 * Clone the git repo `git clone https://github.com/gauravdhiman/ionic-meteor-post-poc.git`
-* Get into project folder `cd ionic-meteor-post-poc`
+* Get into project folder `cd ionic-meteor-angular-mobile-app`
 * Start meteor app `meteor`. If all this set it will start the web app on port 3000.
 * Access app on browser, type [http://localhost:3000](http://localhost:3000)
 
